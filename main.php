@@ -18,6 +18,8 @@
     <h3><i class="bi bi-cash-stack me-1"></i>MyLedger</h3>
     <a href="dashboard.php"><i class="bi bi-speedometer2 me-2"></i>Dashboard</a>
     <a href="add_entry.php"><i class="bi bi-plus-circle me-2"></i>Add Entry</a>
+    <a href="audit_list.php"><i class="bi bi-list me-2"></i>Audit List</a>
+    <a href="user_list.php"><i class="bi bi-list me-2"></i>User List</a>
     <a href="logout.php"><i class="bi bi-box-arrow-right me-2"></i>Logout</a>
 </div>
     
